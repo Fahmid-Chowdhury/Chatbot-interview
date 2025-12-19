@@ -1,5 +1,5 @@
 ```markdown
-# 🚀 AI-Powered Policy Chatbot (Bangla + English)
+# 🚀 RAG-Powered Policy Chatbot (Bangla + English)
 
 ### Join Venture AI — AI Developer Assessment Task
 
